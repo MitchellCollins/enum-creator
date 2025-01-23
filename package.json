@@ -1,0 +1,14 @@
+{
+  "name": "@mitchell-collins/enum-creator",
+  "version": "1.0.0",
+  "description": "Used to create a typescript file that contains the code that defines a enum. Useful when the enum requires many properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell Collins",
+  "license": "ISC",
+  "dependencies": {
+    "@mitchell-collins/validator": "^1.5.8"
+  }
+}
