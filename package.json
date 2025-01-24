@@ -7,8 +7,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchellCollins/enum-creator.git"
+  },
   "author": "Mitchell Collins",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchellCollins/enum-creator/issues"
+  },
+  "homepage": "https://github.com/MitchellCollins/enum-creator#readme",
   "dependencies": {
     "@mitchell-collins/validator": "^1.5.8"
   }
