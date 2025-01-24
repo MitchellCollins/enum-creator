@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Used to create a typescript file that contains the code that defines a enum. Useful when the enum requires many properties.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
